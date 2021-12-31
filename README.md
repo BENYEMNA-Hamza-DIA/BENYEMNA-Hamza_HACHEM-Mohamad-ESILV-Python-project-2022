@@ -21,15 +21,16 @@ Finally, we obtained an accuracy about 62.5%.
 
 
 Tasks:
- - Notebook:
+
+Notebook:
   - load the dataset
   - clean it
   - show plots and analyze it
   - find different Machine Learning models and improve it through tests and different methods.
  
- - Report: we explained as well as possible the fulfillment of the project.
+Report: we explained as well as possible the fulfillment of the project.
 
- - Flask:
+Flask:
   - 
  
 
