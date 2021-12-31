@@ -36,14 +36,12 @@ In the Flask part we have <ins>4 essentiels files and 1 folder</ins>
 * GradientBoostingModel.pkl
 * templates 
 
-these 3 are the most important files to make the flask app work smoothly.
+These 3 are the most important files to make the flask app work smoothly.
 * first we need to set the right enviroment;therefore make sure that all the packages are well installed on your PC.
 * second include these file in your project and make sure the "Index.html"(found in Templates that it stays like this)
 ```
-once you run the application you might run into a portal problem to solve that simply change the portal number from 5000 to an available portal
+Once you run the application you might run into a portal problem to solve that simply change the portal number from 5000 to an available portal
 for you
 ```
-once the application runs. you will find in the terminal a link press on it and a HTML survey will open where you can
+Once the application runs. you will find in the terminal a link press on it and a HTML survey will open where you can
 put your input and receive the prediction directly. 
-
-Comments:
